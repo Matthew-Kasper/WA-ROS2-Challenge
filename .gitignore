@@ -53,3 +53,4 @@ resolv.conf
 *.lic
 tmp*
 workspace/.idea/
+workspace/.vscode/
